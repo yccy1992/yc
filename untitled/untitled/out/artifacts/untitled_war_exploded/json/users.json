@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+  		{"id":"1","name":"张伟华","gender":"男","age":"35","address":"深圳","qq":"9208653","email":"9208653@qq.com"}
+  		, {"id":"2","name":"李四","gender":"男","age":"35","address":"深圳","qq":"9208653","email":"9208653@qq.com"}
+  		]
+}
